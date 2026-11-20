@@ -16,19 +16,6 @@ This project demonstrates IoT-based relay control using an ESP8266 NodeMCU and K
 - USB Cable
 - Wi-Fi Connection
 
-## 🔌 Circuit Connections
-
-| Relay Module | ESP8266 |
-|---|---|
-| VCC | VIN (5V, if supported) |
-| GND | GND |
-| IN | D1 |
-
-## ☁️ KiwisIoT Cloud Configuration
-
-| Channel | Function |
-|---|---|
-| Channel 1 | Relay Control |
 
 ## ⚙️ Working Principle
 1. ESP8266 connects to the Wi-Fi network.
@@ -41,7 +28,11 @@ This project demonstrates IoT-based relay control using an ESP8266 NodeMCU and K
 `ESP8266_Relay_Control.ino`
 
 ## 📸 Project Output
-![ESP8266 IoT Relay Control Output](relay-output.jpeg)
+
+
+![Relay Circuit](RELAY%20CIRCUIT.jpeg)
+
+![Relay Output](RELAY%20OUTPUT.jpeg)
 
 ## 🚀 Applications
 - Smart Home Automation
