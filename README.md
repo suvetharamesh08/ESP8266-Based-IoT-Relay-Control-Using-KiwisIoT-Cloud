@@ -24,9 +24,10 @@ This project demonstrates IoT-based relay control using an ESP8266 NodeMCU and K
 4. The relay switches ON or OFF based on the received command.
 5. Connected electrical devices can be controlled remotely.
 
+ 
 ## 💻 Source Code
-`ESP8266_Relay_Control.ino`
 
+[ESP8266_Relay_Control.ino](ESP8266_Relay_Control.ino)
 ## 📸 Project Output
 
 
